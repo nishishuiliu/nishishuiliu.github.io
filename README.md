@@ -2,3 +2,5 @@
 Record My Coding Life
 Update to Test git revert --add line
 
+----> this line will conflict
+
